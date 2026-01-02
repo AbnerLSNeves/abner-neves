@@ -1,0 +1,26 @@
+img {
+border: solid rgb(0, 217, 255);
+ border-radius: 300px;
+ margin: 20px 0 5px 0;
+ zoom: 150%;
+}
+h2 {
+ font-size: 18px;
+}
+body {
+ background-color: slateblue;
+ font-family: Trebuchet MS;
+ color: white;
+ text-align: center;
+}
+a {
+ background-color: white;
+ font-size: 20px;
+ border-radius: 10px;
+ padding: 10px;
+ display: block;
+    width: 400px;
+ text-align: center;
+ margin: 0 auto;
+ color: slateblue;
+}
