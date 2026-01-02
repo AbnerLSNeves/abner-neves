@@ -24,3 +24,12 @@ a {
  margin: 0 auto;
  color: slateblue;
 }
+.amor {
+ font-size: 25px;
+ font-family: Arial Black;
+ background-color: crimson;
+ color: white;
+ margin: 20px 600px 20px 600px;
+ text-align: center;
+    border-radius: 15px;
+}
